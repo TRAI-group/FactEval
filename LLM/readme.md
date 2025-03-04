@@ -1,5 +1,3 @@
-# FactEval
-
 ---
 
 ## Attacks Overview  
